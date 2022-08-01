@@ -1,0 +1,3 @@
+{
+  "extends": ["@drewster/eslint-config/react", "@drewster/eslint-config/ts", "next/core-web-vitals"]
+}
