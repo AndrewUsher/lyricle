@@ -165,7 +165,7 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@prisma/client@^4.1.1":
+"@prisma/client@4.1.1":
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/@prisma/client/-/client-4.1.1.tgz#dcb1118397deb8247fbe39a1f3eee5606648adf8"
   integrity sha512-2pXuIUYxHv5H9o6QTa1VIsl4yMgsAjKQOitlo8WVTB+vo73rmMJITBPavdGUZSWUc7adMkFzEV3y5rVTUQr77Q==
@@ -194,7 +194,7 @@
   dependencies:
     tslib "^2.4.0"
 
-"@tailwindcss/forms@^0.5.2":
+"@tailwindcss/forms@0.5.2":
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/@tailwindcss/forms/-/forms-0.5.2.tgz#4ef45f9916dcb37838cbe7fecdcc4ba7a7c2ab59"
   integrity sha512-pSrFeJB6Bg1Mrg9CdQW3+hqZXAKsBrSG9MAfFLKy1pVA4Mb4W7C0k7mEhlmS2Dfo/otxrQOET7NJiJ9RrS563w==
@@ -215,14 +215,14 @@
   dependencies:
     ts-essentials "^9.1.2"
 
-"@trpc/client@^9.26.2":
+"@trpc/client@9.26.2":
   version "9.26.2"
   resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.26.2.tgz#82f57bfe96388a8028b10ebb9aad4eb58ec90b71"
   integrity sha512-R7eaxEtcK1C6PwxlGZCmMEiGGfn1BUU/hnulTpHVw/Mkd/3EqQqvP3Gs7pAYnJAZ44rjNF3Hepw5q2nP2Ctnhg==
   dependencies:
     "@babel/runtime" "^7.9.0"
 
-"@trpc/next@^9.26.2":
+"@trpc/next@9.26.2":
   version "9.26.2"
   resolved "https://registry.yarnpkg.com/@trpc/next/-/next-9.26.2.tgz#4ae95513b81971070c321b932bb4f3407b5d1e86"
   integrity sha512-CTSQ2G8m/GONbEnf7asDlmoiBCY/WPihuVnev4BWRu6cDnEe2CtVxo34biWknpiGacEykTzH9dEWBDmZAGReJA==
@@ -230,14 +230,14 @@
     "@babel/runtime" "^7.9.0"
     react-ssr-prepass "^1.5.0"
 
-"@trpc/react@^9.26.2":
+"@trpc/react@9.26.2":
   version "9.26.2"
   resolved "https://registry.yarnpkg.com/@trpc/react/-/react-9.26.2.tgz#fbea785e4cc206646c215cc1d371ccf21eeda79f"
   integrity sha512-YCwn+Cd1/Yl6qB+/ZSF9A+32prBU4Z7un5Ms/q79mC090deCdfOL0IGNrv/7kX5EtsuOSo0RR/NUTo9f+xx1NA==
   dependencies:
     "@babel/runtime" "^7.9.0"
 
-"@trpc/server@^9.26.2":
+"@trpc/server@9.26.2":
   version "9.26.2"
   resolved "https://registry.yarnpkg.com/@trpc/server/-/server-9.26.2.tgz#2386d0d0c76b9d6cbdcef3006ea3221729617c21"
   integrity sha512-J1kP072cVYC5H2qFhiLQ/gV57s0of++9QLLKf9n8mVfx300tecKQW2eu/oFvRCDPRTTQ1prHz9zm15IzLwoRrw==
@@ -534,7 +534,7 @@ ast-types-flow@^0.0.7:
   resolved "https://registry.yarnpkg.com/ast-types-flow/-/ast-types-flow-0.0.7.tgz#f70b735c6bca1a5c9c22d982c3e39e7feba3bdad"
   integrity sha512-eBvWn1lvIApYMhzQMsu9ciLfkBY499mFZlNqG+/9WR7PVlroQw0vG30cOQQbaKz3sCEc44TAOu2ykzqXSNnwag==
 
-autoprefixer@^10.4.8:
+autoprefixer@10.4.8:
   version "10.4.8"
   resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-10.4.8.tgz#92c7a0199e1cfb2ad5d9427bd585a3d75895b9e5"
   integrity sha512-75Jr6Q/XpTqEf6D2ltS5uMewJIx5irCU1oBYJrWjFenq/m12WRRrz6g15L1EIoYvPLXTbEry7rDOwrcYNj77xw==
@@ -1996,7 +1996,7 @@ prettier@2.6.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.6.2.tgz#e26d71a18a74c3d0f0597f55f01fb6c06c206032"
   integrity sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==
 
-prisma@^4.1.1:
+prisma@4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/prisma/-/prisma-4.1.1.tgz#41c2e19896357f484ef21567165d762908376fca"
   integrity sha512-yw50J8If2dKP4wYIi695zthsCASQFHiogGvUHHWd3falx/rpsD6Sb1LMLRV9nO3iGG3lozxNJ2PSINxK7xwdpg==
@@ -2250,7 +2250,7 @@ styled-jsx@5.0.2:
   resolved "https://registry.yarnpkg.com/styled-jsx/-/styled-jsx-5.0.2.tgz#ff230fd593b737e9e68b630a694d460425478729"
   integrity sha512-LqPQrbBh3egD57NBcHET4qcgshPks+yblyhPlH2GY8oaDgKs8SK4C3dBh3oSJjgzJ3G5t1SYEZGHkP+QEpX9EQ==
 
-superjson@^1.9.1:
+superjson@1.9.1:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/superjson/-/superjson-1.9.1.tgz#e23bd2e8cf0f4ade131d6d769754cac7eaa8ab34"
   integrity sha512-oT3HA2nPKlU1+5taFgz/HDy+GEaY+CWEbLzaRJVD4gZ7zMVVC4GDNFdgvAZt6/VuIk6D2R7RtPAiCHwmdzlMmg==
@@ -2269,7 +2269,7 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-tailwindcss@^3.1.7:
+tailwindcss@3.1.7:
   version "3.1.7"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.1.7.tgz#ce99425f30a74e01457a2e6a724463b0df3159ac"
   integrity sha512-r7mgumZ3k0InfVPpGWcX8X/Ut4xBfv+1O/+C73ar/m01LxGVzWvPxF/w6xIUPEztrCoz7axfx0SMdh8FH8ZvRQ==
@@ -2472,7 +2472,7 @@ zod-to-ts@^0.2.2:
   resolved "https://registry.yarnpkg.com/zod-to-ts/-/zod-to-ts-0.2.2.tgz#66c6eecb6e697ffdc011b6a3975c2611e39d726d"
   integrity sha512-ardXRu0EIDcS8pP0+1jL5a4ZtPIfxhmWHjwYH7Mol38/D3OUqgo+QjK648+R6T7N0RkfSNOSI1AkddKILetLKQ==
 
-zod@^3.17.3:
+zod@3.17.10:
   version "3.17.10"
   resolved "https://registry.yarnpkg.com/zod/-/zod-3.17.10.tgz#8716a05e6869df6faaa878a44ffe3c79e615defb"
   integrity sha512-IHXnQYQuOOOL/XgHhgl8YjNxBHi3xX0mVcHmqsvJgcxKkEczPshoWdxqyFwsARpf41E0v9U95WUROqsHHxt0UQ==
